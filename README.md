@@ -1,4 +1,4 @@
-# ao_loop1
+# Button AI demo
 Open source reference design for implementing Loop-1, an API for real-time reinforcement learning
 
 Maintainer: aolabsai, eng@aolabs.ai
